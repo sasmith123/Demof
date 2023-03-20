@@ -1,0 +1,4 @@
+git commands
+git rm -r --cached . 
+we need to execute above command when we list files or directories in gitignore after they are created
+no need to run if we add the files our directories in gitignore and generate them later in our directory
